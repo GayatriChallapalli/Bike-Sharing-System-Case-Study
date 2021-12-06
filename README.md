@@ -1,6 +1,5 @@
-# Linear-Regression 
 
-**Bike Sharing System Case study**
+## Bike Sharing System Case study
 
 **Problem Statement:**
 
